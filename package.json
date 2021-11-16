@@ -1,0 +1,30 @@
+{
+  "name": "grenton-client",
+  "version": "1.0.0",
+  "description": "Javascript Grenton client",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Domktorymysli/grenton-client-js.git"
+  },
+  "keywords": [
+    "Grenton",
+    "Client"
+  ],
+  "author": "Tytus Ciunelis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Domktorymysli/grenton-client-js/issues"
+  },
+  "homepage": "https://github.com/Domktorymysli/grenton-client-js#readme",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  },
+  "dependencies": {
+    "aes-js": "^3.1.2",
+    "base64-arraybuffer": "^1.0.1"
+  }
+}
